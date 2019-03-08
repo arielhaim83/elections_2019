@@ -1,0 +1,11 @@
+Elections/Elections/Elections.API/bin/
+Elections/Elections/Elections.API/obj/
+Elections/Elections/Elections.BLL.Tests/bin/
+Elections/Elections/Elections.BLL.Tests/obj/
+Elections/Elections/Elections.BLL/obj/
+Elections/Elections/Elections.Configuration/bin/
+Elections/Elections/Elections.Configuration/obj/
+Elections/Elections/Elections.DAL.MySql/obj/
+Elections/Elections/Elections.DbUp.MySql/bin/Debug/
+Elections/Elections/Elections.DbUp.MySql/obj/
+Elections/Elections/Elections.DAL.MySql/bin/
