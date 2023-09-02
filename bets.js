@@ -319,13 +319,13 @@ var league =
                         },
                         {
                             id: 6,
-                            home: "",
-                            away: ""
+                            home: 1,
+                            away: 1
                         },
                         {
                             id: 7,
-                            home: "",
-                            away: ""
+                            home: 0,
+                            away: 3
                         },
                     ],
                     "אריאל": [
