@@ -255,23 +255,23 @@ var league =
             results: [
                 {
                     id: 1,
-                    home: "",
-                    away: ""                                
+                    home: 1,
+                    away: 1                                
                 },
                 {
                     id: 2,
-                    home: "",
-                    away: ""                                
+                    home: 1,
+                    away: 1                                
                 },
                 {
                     id: 3,
-                    home: "",
-                    away: ""                                
+                    home: 0,
+                    away: 1                                
                 },
                 {
                     id: 4,
-                    home: "",
-                    away: ""                                
+                    home: 1,
+                    away: 0                                
                 },
                 {
                     id: 5,
