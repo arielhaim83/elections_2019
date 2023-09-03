@@ -275,13 +275,13 @@ var league =
                 },
                 {
                     id: 5,
-                    home: "",
-                    away: ""                                
+                    home: 1,
+                    away: 2                                
                 },
                 {
                     id: 6,
-                    home: "",
-                    away: ""                                
+                    home: 0,
+                    away: 3                                
                 },
                 {
                     id: 7,
