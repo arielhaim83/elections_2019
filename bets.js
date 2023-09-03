@@ -319,8 +319,8 @@ var league =
                         },
                         {
                             id: 6,
-                            home: "",
-                            away: ""
+                            home: 0,
+                            away: 5
                         },
                         {
                             id: 7,
