@@ -285,8 +285,8 @@ var league =
                 },
                 {
                     id: 7,
-                    home: "",
-                    away: ""                                
+                    home: 1,
+                    away: 2                                
                 },
             ],
             guesses: [
