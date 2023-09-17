@@ -1,4 +1,4 @@
-var currentRoundIndex = 1;
+var currentRoundIndex = 2;
 
 var teams = 
 {
@@ -362,6 +362,198 @@ var league =
                         {
                             id: 7,
                             home: 2,
+                            away: 1
+                        },
+                    ],
+                    "יעקב": [
+                        {
+                            id: 1,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 2,
+                            home: 0,
+                            away: 1
+                        },
+                        {
+                            id: 3,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 4,
+                            home: 1,
+                            away: 0
+                        },
+                        {
+                            id: 5,
+                            home: 2,
+                            away: 1
+                        },
+                        {
+                            id: 6,
+                            home: 0,
+                            away: 2
+                        },
+                        {
+                            id: 7,
+                            home: 2,
+                            away: 0
+                        },
+                    ]
+                }
+            ]
+        },
+        {
+            id: 3,
+            matches: [
+                {
+                    id: 1,
+                    home: "bs",
+                    away: "hj"
+                },
+                {
+                    id: 2,
+                    home: "hha",
+                    away: "ma"
+                },
+                {
+                    id: 3,
+                    home: "mt",
+                    away: "br"
+                },
+                {
+                    id: 4,
+                    home: "mp",
+                    away: "mh"
+                },
+                {
+                    id: 5,
+                    home: "mn",
+                    away: "hp"
+                },
+                {
+                    id: 6,
+                    home: "bj",
+                    away: "hh"
+                },
+                {
+                    id: 7,
+                    home: "hb",
+                    away: "ht"
+                }
+            ],
+            results: [
+                {
+                    id: 1,
+                    home: "",
+                    away: ""                               
+                },
+                {
+                    id: 2,
+                    home: "",
+                    away: ""                              
+                },
+                {
+                    id: 3,
+                    home: "",
+                    away: ""                                
+                },
+                {
+                    id: 4,
+                    home: "",
+                    away: ""                                
+                },
+                {
+                    id: 5,
+                    home: "",
+                    away: ""                                
+                },
+                {
+                    id: 6,
+                    home: "",
+                    away: ""                                
+                },
+                {
+                    id: 7,
+                    home: "",
+                    away: ""                                
+                },
+            ],
+            guesses: [
+                {
+                    "גיא": [
+                        {
+                            id: 1,
+                            home: 1,
+                            away: 2
+                        },
+                        {
+                            id: 2,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 3,
+                            home: 5,
+                            away: 0
+                        },
+                        {
+                            id: 4,
+                            home: 0,
+                            away: 4
+                        },
+                        {
+                            id: 5,
+                            home: 3,
+                            away: 1
+                        },
+                        {
+                            id: 6,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 7,
+                            home: 2,
+                            away: 0
+                        },
+                    ],
+                    "אריאל": [
+                        {
+                            id: 2,
+                            home: 2,
+                            away: 0
+                        },
+                        {
+                            id: 2,
+                            home: 3,
+                            away: 1
+                        },
+                        {
+                            id: 3,
+                            home: 3,
+                            away: 0
+                        },
+                        {
+                            id: 4,
+                            home: 1,
+                            away: 3
+                        },
+                        {
+                            id: 5,
+                            home: 0,
+                            away: 2
+                        },
+                        {
+                            id: 6,
+                            home: 2,
+                            away: 1
+                        },
+                        {
+                            id: 7,
+                            home: 3,
                             away: 1
                         },
                     ],
