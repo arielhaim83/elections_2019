@@ -1,4 +1,4 @@
-var currentRoundIndex = 4;
+var currentRoundIndex = 7;
 
 var teams = 
 {
@@ -1168,6 +1168,390 @@ var league =
                             id: 7,
                             home: "",
                             away: ""
+                        },
+                    ]
+                }
+            ]
+        },
+        {
+            id: 7,
+            matches: [
+                {
+                    id: 1,
+                    home: "mp",
+                    away: "mn"
+                },
+                {
+                    id: 2,
+                    home: "ha",
+                    away: "br"
+                },
+                {
+                    id: 3,
+                    home: "hha",
+                    away: "hp"
+                },
+                {
+                    id: 4,
+                    home: "ma",
+                    away: "ht"
+                },
+                {
+                    id: 5,
+                    home: "hb",
+                    away: "bs"
+                },
+                {
+                    id: 6,
+                    home: "bj",
+                    away: "hj"
+                },
+                {
+                    id: 7,
+                    home: "mt",
+                    away: "mh"
+                }
+            ],
+            results: [
+                {
+                    id: 1,
+                    home: 1,
+                    away: 0                               
+                },
+                {
+                    id: 2,
+                    home: 0,
+                    away: 2                              
+                },
+                {
+                    id: 3,
+                    home: 1,
+                    away: 1                               
+                },
+                {
+                    id: 4,
+                    home: 2,
+                    away: 1                                
+                },
+                {
+                    id: 5,
+                    home: 1,
+                    away: 2                                
+                },
+                {
+                    id: 6,
+                    home: 1,
+                    away: 0                               
+                },
+                {
+                    id: 7,
+                    home: "",
+                    away: ""                        
+                },
+            ],
+            guesses: [
+                {
+                    "גיא": [
+                        {
+                            id: 1,
+                            home: 0,
+                            away: 1
+                        },
+                        {
+                            id: 2,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 3,
+                            home: 1,
+                            away: 2
+                        },
+                        {
+                            id: 4,
+                            home: 0,
+                            away: 2
+                        },
+                        {
+                            id: 5,
+                            home: 2,
+                            away: 0
+                        },
+                        {
+                            id: 6,
+                            home: 1,
+                            away: 2
+                        },
+                        {
+                            id: 7,
+                            home: 2,
+                            away: 0
+                        },
+                    ],
+                    "אריאל": [
+                        {
+                            id: 1,
+                            home: 0,
+                            away: 0
+                        },
+                        {
+                            id: 2,
+                            home: 2,
+                            away: 0
+                        },
+                        {
+                            id: 3,
+                            home: 2,
+                            away: 1
+                        },
+                        {
+                            id: 4,
+                            home: 0,
+                            away: 0
+                        },
+                        {
+                            id: 5,
+                            home: 3,
+                            away: 0
+                        },
+                        {
+                            id: 6,
+                            home: 3,
+                            away: 0
+                        },
+                        {
+                            id: 7,
+                            home: 2,
+                            away: 2
+                        },
+                    ],
+                    "יעקב": [
+                        {
+                            id: 1,
+                            home: 1,
+                            away: 2
+                        },
+                        {
+                            id: 2,
+                            home: 1,
+                            away: 0 
+                        },
+                        {
+                            id: 3,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 4,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 5,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 6,
+                            home: 0,
+                            away: 0
+                        },
+                        {
+                            id: 7,
+                            home: 2,
+                            away: 1
+                        },
+                    ]
+                }
+            ]
+        },
+        {
+            id: 8,
+            matches: [
+                {
+                    id: 1,
+                    home: "hp",
+                    away: "ma"
+                },
+                {
+                    id: 2,
+                    home: "br",
+                    away: "mp"
+                },
+                {
+                    id: 3,
+                    home: "ht",
+                    away: "ha"
+                },
+                {
+                    id: 4,
+                    home: "hj",
+                    away: "hha"
+                },
+                {
+                    id: 5,
+                    home: "bs",
+                    away: "mt"
+                },
+                {
+                    id: 6,
+                    home: "mh",
+                    away: "bj"
+                },
+                {
+                    id: 7,
+                    home: "mn",
+                    away: "hb"
+                }
+            ],
+            results: [
+                {
+                    id: 1,
+                    home: 1,
+                    away: 1                               
+                },
+                {
+                    id: 2,
+                    home: 3,
+                    away: 0                              
+                },
+                {
+                    id: 3,
+                    home: 1,
+                    away: 1                               
+                },
+                {
+                    id: 4,
+                    home: 0,
+                    away: 1                                
+                },
+                {
+                    id: 5,
+                    home: 2,
+                    away: 3                                
+                },
+                {
+                    id: 6,
+                    home: 1,
+                    away: 1                               
+                },
+                {
+                    id: 7,
+                    home: 1,
+                    away: 0                        
+                },
+            ],
+            guesses: [
+                {
+                    "גיא": [
+                        {
+                            id: 1,
+                            home: 1,
+                            away: 0
+                        },
+                        {
+                            id: 2,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 3,
+                            home: 1,
+                            away: 0
+                        },
+                        {
+                            id: 4,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 5,
+                            home: 0,
+                            away: 3
+                        },
+                        {
+                            id: 6,
+                            home: 1,
+                            away: 0
+                        },
+                        {
+                            id: 7,
+                            home: 0,
+                            away: 1
+                        },
+                    ],
+                    "אריאל": [
+                        {
+                            id: 1,
+                            home: 2,
+                            away: 1
+                        },
+                        {
+                            id: 2,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 3,
+                            home: 1,
+                            away: 0
+                        },
+                        {
+                            id: 4,
+                            home: 0,
+                            away: 2
+                        },
+                        {
+                            id: 5,
+                            home: 1,
+                            away: 2
+                        },
+                        {
+                            id: 6,
+                            home: 2,
+                            away: 0
+                        },
+                        {
+                            id: 7,
+                            home: 1,
+                            away: 2
+                        },
+                    ],
+                    "יעקב": [
+                        {
+                            id: 1,
+                            home: 2,
+                            away: 1
+                        },
+                        {
+                            id: 2,
+                            home: 2,
+                            away: 2 
+                        },
+                        {
+                            id: 3,
+                            home: 1,
+                            away: 0
+                        },
+                        {
+                            id: 4,
+                            home: 1,
+                            away: 1
+                        },
+                        {
+                            id: 5,
+                            home: 1,
+                            away: 2
+                        },
+                        {
+                            id: 6,
+                            home: 2,
+                            away: 0
+                        },
+                        {
+                            id: 7,
+                            home: 1,
+                            away: 1
                         },
                     ]
                 }
