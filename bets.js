@@ -1381,7 +1381,7 @@ var league =
                 {
                     id: 3,
                     home: "ht",
-                    away: "ha"
+                    away: "hh"
                 },
                 {
                     id: 4,
