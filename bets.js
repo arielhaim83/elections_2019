@@ -1663,7 +1663,7 @@ function generateTable(round, guesses, results) {
         for (const player in guesses) {
             const guess = guesses[player][index];
             const score = calculateScore(guess, result);
-            guessesForMatch.push(`${player}: ${guess.away}-${guess.home} (נקודות: ${score})`);
+            guessesForMatch.push(`${player}: ${guess.away}-${guess.home} ${score > 0 ? "+" + score : ""}`);
         }
 
         guessesAndScoresCell.innerHTML = guessesForMatch.join("<br>");
