@@ -982,7 +982,7 @@ var league =
             ]
         },
         {
-            id: 7,
+            id: 6,
             matches: [
                 {
                     id: 1,
@@ -1183,7 +1183,7 @@ var league =
                 },
                 {
                     id: 2,
-                    home: "ha",
+                    home: "hh",
                     away: "br"
                 },
                 {
